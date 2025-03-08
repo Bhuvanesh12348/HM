@@ -1,0 +1,14 @@
+INTRODUCTION 
+Hotel management used to book a room for vacation or for some reasons
+
+PURPOSE
+The main purpose of hotel management is to provide the good facility and good qualitated food for the customers and booking of a room 
+
+Scope
+The scope of hotel management is to get a perfect feedback from the customer so that they can easily get a profit by the upcoming customers 
+
+FUNCTIONAL REQUIREMENTS
+Room availability
+Room maintainance
+Room space
+Quality food
